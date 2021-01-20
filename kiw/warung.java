@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class warungmakan{
+public class warung{
     public static void main(String[] args)
     {
 //        inisialisasi java library scanner
